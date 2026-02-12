@@ -5,8 +5,8 @@
 ## Overarching Goal *2026*
 - [x]AICE
 - [x]ADsP
-- []SQLD
-- []《밑바닥부터 시작하는 딥러닝》시리즈 완독 및 구현
+- [ ]SQLD
+- [ ]《밑바닥부터 시작하는 딥러닝》시리즈 완독 및 구현
  
 
 ## Study Stack
